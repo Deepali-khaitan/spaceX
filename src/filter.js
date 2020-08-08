@@ -20,6 +20,7 @@ class filter extends React.Component{
     }
     
     render(){
+      console.log("hi")
         return(
             <div className=" box row">
             <div className="container_filter column1">
