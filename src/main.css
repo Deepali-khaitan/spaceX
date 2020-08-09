@@ -95,6 +95,16 @@
        grid-gap: 10px;
        padding: 10px;
     }
+
+    
+      .spacebox{
+
+       display: grid;
+       grid-template-columns: auto auto auto auto;
+       background-color :#F0F0F0;
+       grid-gap: 10px;
+       padding: 10px;
+    }
     .spacebox > div{
         background-color: white;
         text-align: center;

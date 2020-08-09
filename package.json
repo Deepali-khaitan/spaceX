@@ -13,11 +13,12 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "npm install && npm run build",
+    "start": "npm install && npm run build && npm run dev",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "dev": "react-scripts start"
+    "eject": "react-scripts eject"
+    
+    
   },
   "eslintConfig": {
     "extends": "react-app"
